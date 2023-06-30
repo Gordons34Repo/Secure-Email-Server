@@ -19,7 +19,7 @@ The project was developed in Python, and used the library **Crypto** to assist i
 [](https://github.com/Gordons34Repo/Secure-Email-Server/assets/135652713/0bc859ce-5266-43e2-8f95-ad7bc79528ef)
 
 ## Server-Side Application
-
-<img align="center" src=https://github.com/Gordons34Repo/Secure-Email-Server/assets/135652713/5e827010-5d3a-4b65-a500-838a0b2d626d/>
-
-_In this screenshot, I display the server's output logs from 2 users connecting and performing operations on the server._<br clear="center"/>
+<p align="center">
+<img src=https://github.com/Gordons34Repo/Secure-Email-Server/assets/135652713/5e827010-5d3a-4b65-a500-838a0b2d626d/>
+<i>In this screenshot, I display the server's output logs from 2 users connecting and performing operations on the server.</i>
+</p>
