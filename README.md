@@ -38,3 +38,11 @@ The client enters the server's address, and then enters their login information.
 <img src=https://github.com/Gordons34Repo/Secure-Email-Server/assets/135652713/0a1f6ab0-e963-4504-b50f-80e1951b0908 />
 </p>
 <p align="center"><i>In this screenshot, I display the client accessing their inbox.</i></p>
+
+The client application, once their login was accepted by the server, has a menu that they can select from:
+- Create and send an email
+- Dispaly the inbox list
+- Display the email contents
+- Terminate the connection
+
+As shown in the picture above, the user asks to view their inbox, which then the server diplays a list of all emails in their inbox. The user can then select to view the email contents by selecting the number from their inbox. The user can also choose to send an email. In this screen you can choose to send the email to multiple users and load the email body from a file. This is displayed in the [video](#watch-a-video!). After this process, the server sends the email to each person(s) inbox which can then be read and loaded by users. The inbox displays the sender, the epoch date of when the email was sent, and the email title.
