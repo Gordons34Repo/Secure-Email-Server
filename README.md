@@ -14,5 +14,9 @@ This was the final project for **CMPT 361: Networks**, where our group was taske
 
 The project was developed in Python, and used the library **Crypto** to assist in encryption. Messages were tested in size up to 1 million bytes, as that was our set cap for the application. This project had no GUI component, so videos and pictures of the project will be from the command line.
 
+## Watch A Video!
+
+[](https://github.com/Gordons34Repo/Secure-Email-Server/assets/135652713/0bc859ce-5266-43e2-8f95-ad7bc79528ef)
+
 ## Server-Side Application
 
