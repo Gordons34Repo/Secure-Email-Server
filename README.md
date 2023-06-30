@@ -21,5 +21,4 @@ The project was developed in Python, and used the library **Crypto** to assist i
 ## Server-Side Application
 <p align="center">
 <img src=https://github.com/Gordons34Repo/Secure-Email-Server/assets/135652713/5e827010-5d3a-4b65-a500-838a0b2d626d/>
-<i>In this screenshot, I display the server's output logs from 2 users connecting and performing operations on the server.</i>
 </p>
